@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BuildTower/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuildTower/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CatchTheBus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CatchTheBus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CountByX/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CountByX/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecodeMorse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecodeMorse/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DetectPangram/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DetectPangram/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuplicateEncoder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuplicateEncoder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GrassHopper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GrassHopper/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighestScoringWOrd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HighestScoringWOrd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HowGoodAreReallyYou/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HowGoodAreReallyYou/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MaxMinOfList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MaxMinOfList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReturningStrings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReturningStrings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortTheOdd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortTheOdd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SumOfTheFirstNthOfSeries/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SumOfTheFirstNthOfSeries/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SumStringsAsNumbers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SumStringsAsNumbers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
