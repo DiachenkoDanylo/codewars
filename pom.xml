@@ -24,6 +24,7 @@
       <module>CatchTheBus</module>
       <module>SumStringsAsNumbers</module>
       <module>DecodeMorse</module>
+      <module>DirectionsReduction</module>
   </modules>
 
   <properties>
