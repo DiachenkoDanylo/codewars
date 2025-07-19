@@ -26,6 +26,7 @@
       <module>DecodeMorse</module>
       <module>DirectionsReduction</module>
     <module>SoManyPermutations</module>
+    <module>HumanReadableDurationFormat</module>
   </modules>
 
   <properties>
