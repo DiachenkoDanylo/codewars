@@ -25,6 +25,7 @@
       <module>SumStringsAsNumbers</module>
       <module>DecodeMorse</module>
       <module>DirectionsReduction</module>
+    <module>SoManyPermutations</module>
   </modules>
 
   <properties>
