@@ -28,6 +28,7 @@
     <module>SoManyPermutations</module>
     <module>HumanReadableDurationFormat</module>
     <module>RegexValidatePinCode</module>
+      <module>TriangleTester</module>
   </modules>
 
   <properties>
