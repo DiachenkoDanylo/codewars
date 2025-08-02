@@ -29,6 +29,7 @@
     <module>HumanReadableDurationFormat</module>
     <module>RegexValidatePinCode</module>
       <module>TriangleTester</module>
+      <module>SimplePigLatin</module>
   </modules>
 
   <properties>
