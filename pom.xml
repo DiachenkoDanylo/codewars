@@ -30,6 +30,7 @@
     <module>RegexValidatePinCode</module>
       <module>TriangleTester</module>
       <module>SimplePigLatin</module>
+      <module>WhoLikesIt</module>
   </modules>
 
   <properties>
