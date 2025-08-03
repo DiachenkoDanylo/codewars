@@ -31,6 +31,7 @@
       <module>TriangleTester</module>
       <module>SimplePigLatin</module>
       <module>WhoLikesIt</module>
+    <module>BouncingBalls</module>
   </modules>
 
   <properties>
