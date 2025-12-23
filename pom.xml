@@ -33,6 +33,7 @@
       <module>WhoLikesIt</module>
     <module>BouncingBalls</module>
     <module>SimpleFun159-MiddlePermutation</module>
+      <module>ReversedString</module>
   </modules>
 
   <properties>
