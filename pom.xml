@@ -34,6 +34,7 @@
     <module>BouncingBalls</module>
     <module>SimpleFun159-MiddlePermutation</module>
       <module>ReversedString</module>
+      <module>BreakCamelCase</module>
   </modules>
 
   <properties>
