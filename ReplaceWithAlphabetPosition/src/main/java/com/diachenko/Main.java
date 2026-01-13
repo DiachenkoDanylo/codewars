@@ -15,18 +15,18 @@ public class Main {
 
     static String alphabetPosition(String text) {
         final String ALPHABET_LOW = "abcdefghijklmnopqrstuvwxyz";
-
         text = text.toLowerCase();
-        text = text.replace("a-z", " ");
-        text = text.trim();
+        text = text.replaceAll("[^a-z]", "");
         char[] arr = text.toCharArray();
 
         StringBuilder result = new StringBuilder();
-        for (int i = 1; i < arr.length; i++) {
-            if (i != 1) {
-                result.append(" ");
+        for (int i = 0; i < arr.length; i++) {
+            if (Character.isLetter(arr[i])) {
+                result.append(ALPHABET_LOW.indexOf(arr[i]) + 1);
+                if (i + 1 < arr.length) {
+                    result.append(" ");
+                }
             }
-            result.append(ALPHABET_LOW.indexOf(arr[i - 1]) + 1);
         }
         return result.toString();
     }
