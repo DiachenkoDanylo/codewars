@@ -35,6 +35,7 @@
     <module>SimpleFun159-MiddlePermutation</module>
       <module>ReversedString</module>
       <module>BreakCamelCase</module>
+      <module>ReplaceWithAlphabetPosition</module>
   </modules>
 
   <properties>
