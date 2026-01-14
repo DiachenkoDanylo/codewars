@@ -36,6 +36,7 @@
       <module>ReversedString</module>
       <module>BreakCamelCase</module>
       <module>ReplaceWithAlphabetPosition</module>
+      <module>StripComments</module>
   </modules>
 
   <properties>
