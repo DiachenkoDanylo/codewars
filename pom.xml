@@ -37,6 +37,8 @@
       <module>BreakCamelCase</module>
       <module>ReplaceWithAlphabetPosition</module>
       <module>StripComments</module>
+      <module>TexasHoldemHands</module>
+      <module>HexToRGB</module>
   </modules>
 
   <properties>
