@@ -39,6 +39,7 @@
       <module>StripComments</module>
       <module>TexasHoldemHands</module>
       <module>HexToRGB</module>
+      <module>ConvertToCamelCase</module>
   </modules>
 
   <properties>
