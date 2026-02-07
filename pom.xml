@@ -40,6 +40,7 @@
       <module>TexasHoldemHands</module>
       <module>HexToRGB</module>
       <module>ConvertToCamelCase</module>
+      <module>CountBits</module>
   </modules>
 
   <properties>
