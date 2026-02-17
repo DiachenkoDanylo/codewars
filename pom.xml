@@ -41,6 +41,9 @@
       <module>HexToRGB</module>
       <module>ConvertToCamelCase</module>
       <module>CountBits</module>
+      <module>NewtonLawOfForce</module>
+      <module>BruteForceDetector</module>
+      <module>PizzaParty1</module>
   </modules>
 
   <properties>
