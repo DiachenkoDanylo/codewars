@@ -5,12 +5,16 @@
     <file url="file://$PROJECT_DIR$/BouncingBalls/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/BreakCamelCase/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/BreakCamelCase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BruteForceDetector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BruteForceDetector/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/BuildTower/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/BuildTower/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CatchTheBus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CatchTheBus/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ConvertToCamelCase/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ConvertToCamelCase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CountBits/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CountBits/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CountByX/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CountByX/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DecodeMorse/src/main/java" charset="UTF-8" />
@@ -19,6 +23,8 @@
     <file url="file://$PROJECT_DIR$/DetectPangram/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DirectionsReduction/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DirectionsReduction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Disemvowel Trolls/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Disemvowel Trolls/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DuplicateEncoder/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DuplicateEncoder/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/GrassHopper/src/main/java" charset="UTF-8" />
@@ -35,6 +41,10 @@
     <file url="file://$PROJECT_DIR$/MaxMinOfList/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MostUsedWordsInText/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MostUsedWordsInText/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NewtonLawOfForce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NewtonLawOfForce/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PizzaParty1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PizzaParty1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RegexValidatePinCode/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RegexValidatePinCode/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ReplaceWithAlphabetPosition/src/main/java" charset="UTF-8" />
